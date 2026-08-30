@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NutriVision",
+    "slug": "nutrivision",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "nutrivision",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.nutrivision.app"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      "@react-native-google-signin/google-signin"
+    ]
+  }
+}
